@@ -1,4 +1,4 @@
-# project1
+# RollDice
 
 A new Flutter project.
 
